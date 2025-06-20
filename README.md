@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer working primarily in **Java**, **Spring Boot**, **Angular**, and **MySQL**. I enjoy building full-stack systems, designing scalable backend architectures, and diving into low-level computing just as much as deploying cloud-native applications. Right now, I am trying to learn more about Machine Learning and AI.
+I'm a Software Engineer working primarily in **Java**, **Spring Boot**, **Angular**, and **MySQL**. I enjoy building full-stack systems, designing scalable backend architectures, and diving into low level computing just as much as deploying cloud native applications. Right now, I am trying to learn more about Machine Learning and AI.
 
 ## 🧠 Interests
 
