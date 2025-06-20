@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a Software Engineer working primarily in **Java**, **Spring Boot**, **Angular**, and **MySQL**. I enjoy building full-stack systems, designing scalable backend architectures, and diving into low-level computing just as much as deploying cloud-native applications. Right now, I am trying to learn more about Machine Learning and AI.
+
+## 🧠 Interests
+
+- Computer Science Fundamentals (DSA, OS, CN, DBMS)
+- Systems Programming – memory, processes, bits & bytes
+- Building useful tools and utilities with Python
+- Machine Learning – theory, experimentation, and hands-on models
+- Exploring how high-level abstractions are built on low-level operations
+
 <!--
 **SaiMeda19/SaiMeda19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
