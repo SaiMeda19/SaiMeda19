@@ -14,7 +14,7 @@ Because I enjoy suffering in increasingly abstract ways:
 
 - **Machine Learning** – I train models that either overfit, underfit, or straight-up refuse to learn. It's like raising kids, but with less noise and more matrix multiplication.
 
-- **Low-Level to High-Level Abstractions** – Forever fascinated by how `print("hello")` turns into a thousand syscalls, memory allocations, and eventual emotional damage..
+- **Low-Level to High-Level Abstractions** – Forever fascinated by how `print("hello")` turns into a thousand syscalls, memory allocations, and eventual emotional damage.
 
 
 <!--
